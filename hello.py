@@ -3,4 +3,4 @@ def hello_world_f():
         if i % 5 == 0:
             print("Hello world")
 
-# asfafasasgagag
+# asfafфыафыаasfgasasgagag
